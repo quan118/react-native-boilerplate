@@ -1,5 +1,6 @@
 {
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
-  "prettier.configPath": ".prettierrc.js"
+  "prettier.configPath": ".prettierrc.js",
+  "eslint.options": {"overrideConfigFile": ".eslintrc.js"}
 }
